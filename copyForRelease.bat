@@ -1,0 +1,1 @@
+xcopy G:\AIE\2024\AdvDip\ClassProjects\OpenGLClassProject\bin G:\AIE\2024\AdvDip\ClassProjects\OpenGLClassProject\x64\Release /s/e
